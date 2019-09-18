@@ -1,2 +1,3 @@
 This is the first row
 This is the second row from Branch: newBranch
+This is the third row from Branch: newbranch
